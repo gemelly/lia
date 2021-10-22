@@ -1,7 +1,7 @@
 +++
 author = "Adhelia Gemeleonny Pamugkas"
 bg_image = ""
-date = 2021-10-22T14:24:00Z
+date = 2021-10-22T14:28:00Z
 description = ""
 tags = ["Perkenalan"]
 title = "Perkenalan"
